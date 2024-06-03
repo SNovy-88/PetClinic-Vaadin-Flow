@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/blond/Code/enterprise_App/spring-petclinic-vaadin-flow/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/blond/Code/enterprise_App/spring-petclinic-vaadin-flow/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/blond/Code/enterprise_App/spring-petclinic-vaadin-flow/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\blond\\Code\\enterprise_App\\spring-petclinic-vaadin-flow\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\blond\\Code\\enterprise_App\\spring-petclinic-vaadin-flow\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/blond/Code/enterprise_App/spring-petclinic-vaadin-flow/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/blond/Code/enterprise_App/spring-petclinic-vaadin-flow/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/blond/Code/enterprise_App/spring-petclinic-vaadin-flow/./frontend/generated/jar-resources",
+  "themeName": "petclinic",
+  "clientServiceWorkerSource": "C:\\Users\\blond\\Code\\enterprise_App\\spring-petclinic-vaadin-flow\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}

@@ -1,0 +1,1 @@
+import{bL as a}from"./indexhtml-qEKIKPDw.js";const t={tagName:"vaadin-virtual-list",displayName:"Virtual List",elements:[{selector:"vaadin-virtual-list",displayName:"List",properties:[a.backgroundColor,a.borderColor,a.borderWidth,a.borderRadius]}]};export{t as default};

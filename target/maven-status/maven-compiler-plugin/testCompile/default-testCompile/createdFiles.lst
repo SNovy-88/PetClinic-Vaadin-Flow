@@ -1,0 +1,5 @@
+org\springframework\samples\petclinic\service\EntityUtils.class
+org\springframework\samples\petclinic\model\ValidatorTests.class
+org\springframework\samples\petclinic\vet\VetTests.class
+org\springframework\samples\petclinic\service\ClinicServiceTests.class
+org\springframework\samples\petclinic\PetclinicIntegrationTests.class
